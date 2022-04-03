@@ -62,8 +62,9 @@ ul a{
 
 .banner .card {
     background-color: beige;
-    height: 450px;
+    height: 550px;
     width: 400px;
+    margin-top: 30px;
     display: flex;
     flex-flow: column;
     align-items: center;
@@ -91,6 +92,7 @@ ul a{
 
 input {
     height: 30px;
+    width: 50%;
     border: 1px solid #e75459;
     border-radius: 4px;
     font-family: monospace;
